@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+ body{
+     font-family: 'Old Standard TT', serif;
+     background-image: url('image6.jpeg');
+     background-repeat: no-repeat;
+     background-size: cover;
+    
+ }
+ header h1{
+     background-color: turquoise;
+     text-align: center;
+     color: tomato;
+     padding: 20px;
+ }
+  h3{
+     color: tomato;
+     margin: 10px;
+     font-size: 30px;
+ } 
+ section{
+     border-style: solid;
+     margin: 70px 350px 10px 350px ;
+     padding: 10px;
+     background-color: turquoise;
+     text-align:center;
+     border-radius: 80px;
+ }
+ select{
+     padding: 10px;
+     border-radius: 20px;
+     padding: 10 200px 10 200px;
+ }
+ input{
+     border-radius: 20px;
+     padding: 10px;
+ }
+ .but1{
+     margin: 20px 300px 20px 300px;
+     padding: 25px;
+     border-radius: 20px;
+     background-color: tomato;
+ }
+ .but2{
+    padding: 25px;
+    border-radius: 20px;
+    background-color: tomato;
+    margin: 20px;
+ }
+ th{
+    border: 1px solid black;
+    background-color: tomato;
+    padding: 10px;
+}
+table, th, td {
+    border: 3px solid black;
+    font-size: 16px; 
+    border-collapse: collapse;   
+    margin: 30px 20px 10px 140px ;
+    
+}
+table, td {
+    background-color: turquoise;
+}
+.table{
+    width: 80% ;
+    
+}
+ .imprimer{
+    padding: 25px;
+    border-radius: 20px;
+    background-color: tomato;
+    margin: 20px;
+ }
+ 
